@@ -1,11 +1,4 @@
 {
-  "random": [
-    {
-      "id": 1,
-      "b": "baneado"
-    },{
-      "c": "nalgueado",
-      "d": "baneado"
-    }
-  ]
+  "1": "baneado",
+  "2": "nalgueado"
 }
