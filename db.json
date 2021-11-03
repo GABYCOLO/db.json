@@ -1,11 +1,8 @@
 {
-  "posts": [
+  "random": [
     {
-      "id": 1,
-      "title": "hello"
+      "1": "nalgueado",
+      "2": "baneado"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
