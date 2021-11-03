@@ -1,11 +1,11 @@
 {
   "random": [
     {
-      "1": "nalgueado",
-      "2": "baneado"
+      "a": "nalgueado",
+      "b": "baneado"
     },{
-      "3": "nalgueado",
-      "4": "baneado"
+      "c": "nalgueado",
+      "d": "baneado"
     }
   ]
 }
