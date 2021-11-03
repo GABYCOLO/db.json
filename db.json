@@ -1,4 +1,3 @@
 {
-  "1": "baneado",
-  "2": ["nalgueado"]
+  ban:["nalgueado","baneado"]
 }
